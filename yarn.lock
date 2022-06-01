@@ -1203,19 +1203,19 @@
   dependencies:
     eventemitter3 "^4.0.4"
 
-"@textcomplete/textarea@0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@textcomplete/textarea/-/textarea-0.1.10.tgz#3c8872e11f90e09fb5fc7926335dc9b1f3def35b"
-  integrity sha512-JDPApnDAkQ7mLd8ma/4lkaym8ge72XWpCvPAVMS7meGrn6+gfLtH92ENPy6EfODAbmDDFOaPLOEQAfV3uC2GEQ==
+"@textcomplete/textarea@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@textcomplete/textarea/-/textarea-0.1.11.tgz#7e29110a43fc2ee6107ee09c6c9a39c91df6900e"
+  integrity sha512-3AKWkOb6DSsBboEXTySPDw9SXW3Uudh3i9y0uIyHGXDq6LK+Wy2M+kYKnT4ToD17K82k8fmL7zsxIWxiA07srg==
   dependencies:
-    "@textcomplete/utils" "^0.1.10"
+    "@textcomplete/utils" "^0.1.11"
     textarea-caret "^3.1.0"
     undate "^0.3.0"
 
-"@textcomplete/utils@^0.1.10":
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/@textcomplete/utils/-/utils-0.1.10.tgz#c3ef1bae74effdbf9ff30cb7afd458068a839fc9"
-  integrity sha512-yI0TozB0bUqODA58JVyEOgLK5Rn9IJUYkQXAdvaVXDH6rOQUsoG292rkm4ULv+Kj4zIVDMvZrULAAuvEc55jDg==
+"@textcomplete/utils@^0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@textcomplete/utils/-/utils-0.1.11.tgz#9d3eae95016ae5f0a3e139b9729740ffd00fe11b"
+  integrity sha512-YBHPopILJWF7sD/MUa79u7VqRuVif1hFhpOe64CLSgVmI1w0uQ2OQroqQXJWJkWuYaCemScGqYWuGD4IM4U/AQ==
 
 "@tokenizer/token@^0.3.0":
   version "0.3.0"
